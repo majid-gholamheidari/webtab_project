@@ -55,3 +55,11 @@ to display the dashboard panel correctly, you need to extract files **storage.zi
 ```bash
   php artisan serve
 ```
+## Usage
+
+Username and password for admin login
+
+email/username : `admin@webtab.com`
+
+password: `admin@webtab.com`
+
